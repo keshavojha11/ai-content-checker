@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Content Checker
 
 This project provides a simple web interface for users to input a message, which is then evaluated by an AI agent to determine if it passes or fails certain criteria.
@@ -61,3 +62,6 @@ The server will start at [http://localhost:8000](http://localhost:8000)
 
 ## License
 MIT 
+=======
+# ai-content-checker
+>>>>>>> 4115a776c77211b5663f04ef72fe2bcbcf03de9c
